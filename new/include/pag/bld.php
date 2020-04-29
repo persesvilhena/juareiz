@@ -1,0 +1,1 @@
+<img src="engine/imgs/anuncioe.png" width="150">
